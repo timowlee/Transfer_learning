@@ -1,3 +1,6 @@
+### Personal transfer learning study case hands-on Autoencoder using Fashion MINIST data-set for capture important features of images
+### Reference https://debuggercafe.com/implementing-deep-autoencoder-in-pytorch/
+
 # import required libraries, Modules, and packages
 import os
 import torch 
